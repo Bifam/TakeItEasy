@@ -1,0 +1,13 @@
+D:\temp\WpfControls.CS\bin\Debug\WpfControls.dll
+D:\temp\WpfControls.CS\bin\Debug\WpfControls.pdb
+D:\temp\WpfControls.CS\obj\Debug\WpfControls.CS.csprojResolveAssemblyReference.cache
+D:\temp\WpfControls.CS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\temp\WpfControls.CS\obj\Debug\WpfControls_MarkupCompile.cache
+D:\temp\WpfControls.CS\obj\Debug\WpfControls_MarkupCompile.lref
+D:\temp\WpfControls.CS\obj\Debug\Editors\Themes\Generic.baml
+D:\temp\WpfControls.CS\obj\Debug\Themes\Generic.baml
+D:\temp\WpfControls.CS\obj\Debug\WpfControls.g.resources
+D:\temp\WpfControls.CS\obj\Debug\WpfControls.Properties.Resources.resources
+D:\temp\WpfControls.CS\obj\Debug\WpfControls.CS.csproj.GenerateResource.Cache
+D:\temp\WpfControls.CS\obj\Debug\WpfControls.dll
+D:\temp\WpfControls.CS\obj\Debug\WpfControls.pdb

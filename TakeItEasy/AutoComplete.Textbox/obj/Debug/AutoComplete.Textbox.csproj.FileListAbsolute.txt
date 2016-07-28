@@ -1,0 +1,13 @@
+C:\Users\iamsahn\Documents\Visual Studio 2015\Projects\TakeItEasy\AutoComplete.Textbox\bin\Debug\WpfControls.dll
+C:\Users\iamsahn\Documents\Visual Studio 2015\Projects\TakeItEasy\AutoComplete.Textbox\bin\Debug\WpfControls.pdb
+C:\Users\iamsahn\Documents\Visual Studio 2015\Projects\TakeItEasy\AutoComplete.Textbox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\iamsahn\Documents\Visual Studio 2015\Projects\TakeItEasy\AutoComplete.Textbox\obj\Debug\WpfControls_MarkupCompile.cache
+C:\Users\iamsahn\Documents\Visual Studio 2015\Projects\TakeItEasy\AutoComplete.Textbox\obj\Debug\WpfControls_MarkupCompile.lref
+C:\Users\iamsahn\Documents\Visual Studio 2015\Projects\TakeItEasy\AutoComplete.Textbox\obj\Debug\Editors\Themes\Generic.baml
+C:\Users\iamsahn\Documents\Visual Studio 2015\Projects\TakeItEasy\AutoComplete.Textbox\obj\Debug\Themes\Generic.baml
+C:\Users\iamsahn\Documents\Visual Studio 2015\Projects\TakeItEasy\AutoComplete.Textbox\obj\Debug\WpfControls.g.resources
+C:\Users\iamsahn\Documents\Visual Studio 2015\Projects\TakeItEasy\AutoComplete.Textbox\obj\Debug\WpfControls.Properties.Resources.resources
+C:\Users\iamsahn\Documents\Visual Studio 2015\Projects\TakeItEasy\AutoComplete.Textbox\obj\Debug\AutoComplete.Textbox.csproj.GenerateResource.Cache
+C:\Users\iamsahn\Documents\Visual Studio 2015\Projects\TakeItEasy\AutoComplete.Textbox\obj\Debug\WpfControls.dll
+C:\Users\iamsahn\Documents\Visual Studio 2015\Projects\TakeItEasy\AutoComplete.Textbox\obj\Debug\WpfControls.pdb
+C:\Users\iamsahn\Documents\Visual Studio 2015\Projects\TakeItEasy\AutoComplete.Textbox\obj\Debug\AutoComplete.Textbox.csprojResolveAssemblyReference.cache
